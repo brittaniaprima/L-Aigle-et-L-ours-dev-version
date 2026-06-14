@@ -1,6 +1,6 @@
 state = {
-	id = 51
-	name = "STATE_51"
+	id = 1082
+	name = "Berg"
 	manpower = 6144743
 	resources = {
 		steel = 35  #was 18 #was 30 was: 54
@@ -11,20 +11,13 @@ state = {
 	
 	history = {
 
-		owner = FRA
+		owner = GER
 
 
 		victory_points = {
-			587 5 # Köln
+			6469 10 # Essen
 		}
 
-		#victory_points = {
-		#	3444 5 # Düsseldorf
-		#}
-
-		#victory_points = {
-		#	3547 1 # Bonn
-		#}
 
 		buildings = {
 			infrastructure = 4
@@ -32,13 +25,12 @@ state = {
 			industrial_complex = 4 #WAS 2
 			air_base = 3
 		}
-
 	
 
 	}
 
 	provinces = {
-		587 3444 3547 9522 
+		529 3512 6469 6570 9482 
 	}
 	
 	local_supplies = 0.0 

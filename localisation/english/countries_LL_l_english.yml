@@ -1,0 +1,8 @@
+﻿l_english:
+ NEU_autonomy_supervised_state: "$OVERLORDADJ$ Occupation Zone"
+ NEU_autonomy_supervised_state_DEF: "the $OVERLORDADJ$ Occupation Zone"
+ NEU_autonomy_puppet: "$OVERLORDADJ$ Neuchâtel"
+ NEU_autonomy_puppet_DEF: "$OVERLORDADJ$ Neuchâtel"
+ NEU: "Neuchâtel"
+ NEU_DEF: "The Principality of Neuchâtel"
+ NEU_ADJ: "Neuchâtelois"
