@@ -1,0 +1,42 @@
+state={
+	id=1084
+	name="Oostereems"
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		victory_points = {
+			241 5 # Wilhelmshaven
+		}
+
+		victory_points = {
+			11360 1 # Emden
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+
+			241 = {
+				naval_base = 8
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+
+	}
+
+	provinces={
+		241 11360
+	}
+	manpower=350000
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=8.0 
+}
