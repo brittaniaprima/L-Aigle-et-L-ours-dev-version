@@ -7,25 +7,22 @@ state = {
 	state_category = town
 	
 	resources = {
-		aluminium = 14 # was: 22
+		aluminium = 10 # was: 22
 	}
 
 	history = {
-		victory_points = { #Bolzano
-			11598 1
-		}
 		owner = BAY
 		buildings = {
-			infrastructure = 2 # was 3 before split
-			industrial_complex = 1 #Bolzano's industrial zone started in 1934-35 (Steel meels, Lancia...)
+			infrastructure = 1 # was 3 before split
 		}
 		add_core_of = ITA
 		add_core_of = LBV
+		add_core_of = BAY
 		add_claim_by = AUS
 	}
 
 	provinces = {
-		656 6675 9630 11598 11615
+		6675 9630 11615
 	}
 
 	local_supplies = 0.0 
